@@ -1,0 +1,3 @@
+read requirement.txt
+install dependencies and install deepforest
+!pip install deepforest
